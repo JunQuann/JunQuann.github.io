@@ -1,7 +1,7 @@
 # Online Resume
 
 Special thanks to 
-== Xiaoying Riley at 3rd Wave Media (http://themes.3rdwavemedia.com/)
+Xiaoying Riley at 3rd Wave Media (http://themes.3rdwavemedia.com/)
 for creating this template
 
 License: 
