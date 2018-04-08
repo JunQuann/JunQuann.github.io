@@ -1430,10 +1430,7 @@ Icon for all respective meta
 }
 .quote-section-bg {
     padding: 30px 50px 40px;
-    background: -webkit-linear-gradient(bottom, #000000, rgba(255, 255, 255, 0.2)); /*Safari 5.1-6*/
-    background: -o-linear-gradient(top, #000000, rgba(255, 255, 255, 0.2)); /*Opera 11.1-12*/
-    background: -moz-linear-gradient(top, #000000, rgba(255, 255, 255, 0.2)); /*Fx 3.6-15*/
-    background: linear-gradient(to top, #000000, rgba(255, 255, 255, 0.2)); /*Standard*/
+    background-color: rgba(26, 30, 35, 0.35);
 }
 
 .quote-section blockquote{
