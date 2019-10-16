@@ -290,6 +290,10 @@ ul.list-check li::before {
 	padding: 120px 0 100px;
 }
 
+.section-padding-project {
+    padding: 40px 0 100px;
+}
+
 
 /* SECTION TITLE
 ----------------------------------------------------- */
