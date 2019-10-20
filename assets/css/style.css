@@ -280,7 +280,7 @@ ul.list-check li::before {
 }
 
 .section-padding-project {
-    padding: 240px;
+    padding: 0px 240px;
 }
 
 /* SECTION TITLE
